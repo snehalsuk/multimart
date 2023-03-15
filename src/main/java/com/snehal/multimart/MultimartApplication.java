@@ -8,6 +8,8 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class MultimartApplication {
 
+
+
 	public static void main(String[] args) {
 		SpringApplication.run(MultimartApplication.class, args);
 	}
